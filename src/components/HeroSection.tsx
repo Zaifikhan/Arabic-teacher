@@ -73,9 +73,9 @@ export default function HeroSection() {
           {/* Main Portrait Card */}
           <div className="relative w-[300px] h-[400px] md:w-[350px] md:h-[450px] rounded-2xl overflow-hidden shadow-2xl border border-white/10 z-10">
             <img 
-              src="/src/assets/images/huzaifa_mountain_portrait_1780292391703.png" 
+              src="/src/assets/images/regenerated_image_1780293383892.jpg" 
               alt="Huzaifa" 
-              className="w-full h-full object-cover"
+              className="w-full h-full object-cover object-[center_20%]"
               referrerPolicy="no-referrer"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-navy-950/90 via-navy-950/20 to-transparent" />

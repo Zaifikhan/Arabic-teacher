@@ -20,7 +20,7 @@ export default function AboutSection() {
               <img 
                 src="/src/assets/images/huzaifa_blue_light_portrait_1780292415083.png" 
                 alt="Studying Arabic" 
-                className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
+                className="w-full h-full object-cover object-[center_top] transition-transform duration-700 hover:scale-105"
                 referrerPolicy="no-referrer"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-navy-950 via-transparent to-transparent" />
