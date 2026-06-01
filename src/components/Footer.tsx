@@ -40,9 +40,9 @@ export default function Footer() {
             <h4 className="text-white font-semibold mb-6">Contact</h4>
             <ul className="space-y-4">
               <li>
-                <a href="https://wa.me/1234567890" className="flex items-center gap-3 text-slate-400 hover:text-gold-400 transition-colors">
-                  <MessageCircle size={18} />
-                  <span>Message on WhatsApp</span>
+                <a href="https://wa.me/923149525452" className="flex items-center gap-3 text-slate-400 hover:text-gold-400 transition-colors group">
+                  <MessageCircle size={18} className="group-hover:text-green-400 transition-colors" />
+                  <span className="group-hover:text-white transition-colors">+92 314 9525452</span>
                 </a>
               </li>
               <li>

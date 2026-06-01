@@ -18,9 +18,10 @@ export default function AboutSection() {
           >
             <div className="relative w-full max-w-md mx-auto aspect-[4/5] rounded-2xl overflow-hidden border border-white/10 shadow-2xl">
               <img 
-                src="https://images.unsplash.com/photo-1577896851231-70ef18881754?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                src="/src/assets/images/huzaifa_blue_light_portrait_1780292415083.png" 
                 alt="Studying Arabic" 
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
+                referrerPolicy="no-referrer"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-navy-950 via-transparent to-transparent" />
             </div>
