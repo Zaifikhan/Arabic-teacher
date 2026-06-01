@@ -1,0 +1,6 @@
+{
+  "name": "Huzaifa - Arabic Learning",
+  "description": "Premium Arabic learning landing page for Huzaifa, a dedicated Arabic language teacher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
